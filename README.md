@@ -1,7 +1,7 @@
 # Dopu
 
 <p align="center">
-  <img src="https://media.tenor.com/8v0sS0Z7kWgAAAAC/frieren-sousou-no-frieren.gif" width="400"/>
+  <img src="https://media.tenor.com/1bS7rXc9YJQAAAAC/frieren-anime.gif" width="350"/>
 </p>
 
 > "Tempo passa. Sistemas quebram. Alguns continuam funcionando."
