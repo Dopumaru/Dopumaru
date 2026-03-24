@@ -1,7 +1,7 @@
 # Dopu
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dopumaru/Dopumaru/main/banne.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Dopumaru/Dopumaru/main/banner.png" width="100%"/>
 </p>
 
 Backend dev focado em automação, filas e sistemas que precisam aguentar carga real.
