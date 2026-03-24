@@ -31,7 +31,7 @@ Faço API, worker e fila funcionar. Se quebrou, eu finjo que foi load.
 ## 🧠 No que foco
 
 - **Queue systems** — BullMQ, Redis, processamento assíncrono que não cai
-- **Rate limiting inteligente** — retry com backoff, throttle adaptativo, 429 sem choro
+- **Rate limiting inteligente** — retry com backoff, throttle adaptativo, 429 
 - **Backend architecture** — APIs que aguentam o que precisa aguentar
 - **Integrações** — Telegram, Digochat, webhooks e o que aparecer
 
